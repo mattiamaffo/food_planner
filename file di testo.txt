@@ -1,0 +1,6 @@
+=SE(C3=""; 0;
+SE.ERRORE(CERCA.VERT(C3; 'Lista Alimenti'!$A$2:$C$31; 3; FALSO);
+SE.ERRORE(CERCA.VERT(C3; 'Lista Alimenti'!$G$2:$I$60; 3; FALSO);
+SE.ERRORE(CERCA.VERT(C3; 'Lista Alimenti'!$N$2:$P$14; 3; FALSO);
+CERCA.VERT(C3; 'Lista Alimenti'!$T$2:$V$44; 3; FALSO)
+)))) * E3 / 100
